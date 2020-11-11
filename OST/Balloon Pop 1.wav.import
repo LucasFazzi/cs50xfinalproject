@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Balloon Pop 1.wav-b11468bb1e2e0970de46ab773113c076.sample"
+
+[deps]
+
+source_file="res://OST/Balloon Pop 1.wav"
+dest_files=[ "res://.import/Balloon Pop 1.wav-b11468bb1e2e0970de46ab773113c076.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

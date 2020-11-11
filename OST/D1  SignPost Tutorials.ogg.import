@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/D1  SignPost Tutorials.ogg-3c5b2b73549f56968ced4a7d748b8f30.oggstr"
+
+[deps]
+
+source_file="res://OST/D1  SignPost Tutorials.ogg"
+dest_files=[ "res://.import/D1  SignPost Tutorials.ogg-3c5b2b73549f56968ced4a7d748b8f30.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

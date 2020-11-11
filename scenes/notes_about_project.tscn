@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scripts/notes_about_project.gd" type="Script" id=1]
+
+[node name="notes_about_project" type="Node"]
+script = ExtResource( 1 )
